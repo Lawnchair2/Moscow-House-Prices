@@ -1,0 +1,3 @@
+Project runs some simple OLS regressions with statsmodels and Pandas, graphs results using matplotlib.
+To replicate, open in Jupyter notebook with the .xlsx data downloaded and switch the directory to wherever the data is located.
+After changing, restart and rerun.
